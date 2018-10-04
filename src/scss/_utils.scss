@@ -1,0 +1,52 @@
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.4);
+
+  &-gradient {
+    background-image: linear-gradient(to bottom right, $brand-primary 0%, #ff9292 60%, #ffc992 100%);
+    opacity: 0.7;
+  }
+}
+
+.bg-faded {
+  background-color: desaturate(darken($white, 5%), 80%)
+}
+
+.lite {
+  font-weight: 200;
+}
+
+.grayscale {
+  filter: grayscale(100%);
+}
+
+.slice {
+  fill: $body-bg;
+  bottom: -1px;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+
+  &.slice-top {
+    top: 0;
+  }
+}
+
+small {
+  font-family: $font-family-monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+.text-accent {
+  color: rgb(234, 152, 24);
+}

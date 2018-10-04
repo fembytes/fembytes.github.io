@@ -1,0 +1,42 @@
+.btn {
+  border-radius: 2rem;
+  font-size: 0.9rem;
+  font-family: $font-family-monospace;
+  text-transform: uppercase;
+  border-width: 2px;
+
+  &-lg {
+    font-size: 1rem;
+  }
+
+  &-primary {
+    background-color: $brand-primary;
+    border-color: $brand-primary;
+
+    &:hover {
+      background-color: $brand-primary;
+      border-color: $brand-primary;
+    }
+
+    &:active, &:focus, &:active:focus {
+      background-color: $brand-primary;
+      border-color: $brand-primary;
+    }
+  }
+
+  &-secondary {
+    background-color: $body-bg;
+    border-color: lighten($gray, 35%);
+    color: $gray;
+
+    &:hover {
+      background-color: $body-bg;
+      border-color: lighten($gray, 22%);
+    }
+
+    &:active, &:focus, &:active:focus {
+      background-color: $body-bg;
+      border-color: lighten($gray, 18%);
+    }
+  }
+}

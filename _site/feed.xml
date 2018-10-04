@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-18T13:53:40-08:00</updated><id>http://localhost:4000//</id><title type="html">FemBytes</title><entry><title type="html">Rachael</title><link href="http://localhost:4000/rachael/" rel="alternate" type="text/html" title="Rachael" /><published>2017-10-14T00:00:00-07:00</published><updated>2017-10-14T00:00:00-07:00</updated><id>http://localhost:4000/rachael</id><content type="html" xml:base="http://localhost:4000/rachael/">&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hello, FemBytes readers! In chatting with more women in the industry, I’ve started getting asked when I’m going to answer my own questions for the blog. As I wrap up this first round of FemBytes interviews, it seems like a great opportunity to put myself in the hot seat for a change.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks for reading, and stay tuned for what’s coming up next for the project! Be sure to follow us on &lt;a href=&quot;http://instagram.com/fembytesproject&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt; for the latest updates.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Very few things in my life have played out the way I expected them to, especially my career, and I’ve discovered over the course of this project that that is so normal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a software developer and product owner. I oversee a team that is focused on user experience and front-end initiatives, and I consult on other projects as a subject matter expert on UX. My team is responsible for designing and developing web-based user interfaces for operator-facing tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What led you to your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My undergraduate degree is in Ecology and Evolutionary Biology. I graduated and planned on studying Urban Planning; I didn’t really know what I wanted to do with either degree, and after a semester as an Urban Planning graduate student I realized it wasn’t really the place for me.&lt;/p&gt;
+
+&lt;p&gt;When I took a step back to consider what I might want to pivot to, I thought about the fact that I’ve been designing and developing for the web since I was 13 or 14, back when it was standard practice to write your HTML tags in all caps and set colors using the COLOR attribute. My first foray into HTML and CSS was as an administrator for a fan message board; I would mess with our board layout and those terrible “Dynamic Drive” scripts that used to exist back in 2000 or so that would add falling snowflakes to your webpage. From there, I learned proper HTML/CSS and JavaScript and started doing WordPress theme and plugin development for freelance clients over the years.&lt;/p&gt;
+
+&lt;p&gt;I decided I wanted to pursue something in that area, and ended up entering a graduate program in Information. I took courses in human-computer interaction and a bit of programming, but really my dev background is entirely self-taught.&lt;/p&gt;
+
+&lt;p&gt;My first job out of grad school was with a project management group at Boeing up in Seattle, where I worked on a metrics dashboard using primarily some proprietary Microsoft tools. While I was in Seattle, I participated in something called Startup Weekend, which is an event where you show up, form a team around someone’s pitch, and you have 48 hours to prepare a demo for the competition. My team ended up winning, which was awesome, and it really made me realize how much I wanted to be doing more fast-paced and dev-oriented work. After that I moved over to Disney Interactive to work on their content management and publishing system for many of their dot-com properties. I found my way over to my current group via a referral from a coworker, and I’ve been here for three years now.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think I probably wanted to be a pilot first - I was born on an Air Force base, and I remember being fascinated by the airplanes that flew over the playground. After that, I think for the bulk of my childhood I wanted to be a veterinarian or marine biologist. In high school I wanted to be a forensic scientist, because of CSI, naturally. I actually did a job shadow with a detective at a police department, which was cool, but also nothing like CSI.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you feel encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I didn’t really ever consider it an option, for some reason. I was always focused on the sciences, which I felt like I was good at but didn’t really love. Going into college I assumed I would be a doctor. Then my Microbiology and Animal Physiology classes happened and I was less convinced.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Like everyone in my generation, I remember being obsessed with playing Oregon Trail in my school’s computer lab. Before that, though, I know I used to tinker around on our Windows 3.1 machine we had in the early 90s. Even before that, I remember the old DOS system that sat in our living room. The only computer class I had in school was a typing class.&lt;/p&gt;
+
+&lt;p&gt;At some point I became pretty much inseparable from the computer; I remember sneaking into the “computer room,” because that was a thing everyone had then, way too late at night or early in the morning and cringing as it did its little dial-up tone thing hoping it wouldn’t wake anyone up and get me in trouble. As I said, I primarily messed with very rudimentary graphic design and coding back then.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any hobbies that are unrelated to your field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Photography, writing, drawing, fitness, coffee consumption - I have a lot of hobbies that have nothing to do with software. It’s interesting, because a trend I’ve found is that women tend to be much less likely to be that species of software dev that eats, sleeps and breathes tech. For whatever reason, the male brain seems to be much more drawn to that space where you hyper focus on one thing at a time, and my anecdotal evidence tells me that tends to make women feel a little “less than” in the tech world. Just because your male colleagues go home and work on their side hustle apps in their free time doesn’t mean you can’t go home and make pinecone animals or sock puppets and be just as valid in the space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I would love to learn more about certain industry tools like Maya and Unity. Coming from the web universe, I feel like there’s a whole world of desktop power user tools that are so powerful for storytelling. I’m also about to delve into a project making a Raspberry Pi vintage game console, which is unlike anything I’ve done before.&lt;/p&gt;
+
+&lt;p&gt;Unrelated to tech, I have a laundry list of things I want to learn - conversational French and how to do latte art, to name the first two that come to mind.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Solving problems by simplifying things. I’m a compulsive organizer and am incapable of coexisting with disorder, whether that’s a messy desk or a messy codebase. I think you can tackle some really difficult and complex problems by taking them apart and figuring out how to put the pieces back together in a way that maybe wasn’t clear when you were looking at it initially. Puzzle solving will always be the driving force behind how I work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Follow your curiosity. Very few things in my life have played out the way I expected them to, especially my career, and I’ve discovered over the course of this project that that is so normal. If you’re in a field that maybe doesn’t feel exactly right, start dabbling in a different one. I recently had a conversation over lunch with some of my coworkers about whether your undergrad major really dictates what you end up doing with your life. At the table of software engineers we had an electrical engineer, an English lit major, a film studies major and me. I spent the summer between my junior and senior years studying botany and helping with research on vines in the Smoky Mountains, and I’m not sure what exactly I thought I was going to do with my life at that point. So no, I don’t think what you study in college necessarily determines where you’ll end up. Have fun and take opportunities as they come, even if it means hanging out in stinging nettle in the middle of a forest for hours and at one point realizing you’re standing on a beehive.&lt;/p&gt;</content><category term="profile" /><summary type="html"> </summary></entry><entry><title type="html">Nastassia</title><link href="http://localhost:4000/nastassia/" rel="alternate" type="text/html" title="Nastassia" /><published>2017-09-12T00:00:00-07:00</published><updated>2017-09-12T00:00:00-07:00</updated><id>http://localhost:4000/nastassia</id><content type="html" xml:base="http://localhost:4000/nastassia/">&lt;blockquote&gt;
+  &lt;p&gt;If you are listening and you’re paying attention, you start seeing patterns and think, “this might be an issue, with all of these stories put together.” I don’t want women to have to deal with some of the stuff that I’ve had to deal with anymore.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a coach. I started with coaching women in tech, and I now do corporate coaching as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What led you to your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I went to school for marketing and merchandising for the fashion world. I did a lot of production in New York. It wasn’t until I came to LA years ago that a friend of mine called me and said, “hey, there’s this new startup, come work with us.” I really fell in love. It’s really exciting to be in startups. It’s like: this is a new baby, and we’re working together. That was my first job, then from there I went to another one, and then it just became my thing.&lt;/p&gt;
+
+&lt;p&gt;I’d been in tech for a while, and I’d gone through the experiences that we all go through. There were a lot of difficult situations working with men. I got to a point a couple years ago where I was just like, I need to figure out how to fix this. I’m an optimizer, like so many of us in tech, so I’m like, “how do I make this better? How do I make this so it’s not so difficult for us to work with them?”&lt;/p&gt;
+
+&lt;p&gt;Then I found coaching. I left tech to go back to school to get my certification. It gave me so many tools that I wish I had when I first started, especially communication tools. My original idea was to coach men in tech with tools that would help them learn how to work with women. But, turns out, they’re not so excited about looking for help - and looking for help from a woman. Women are way more receptive to the idea, so that’s where I started with my practice.&lt;/p&gt;
+
+&lt;p&gt;Now I’m morphing more into corporate so that I can actually go in and do that work with the men too. The idea of bringing someone in to help with diversity and inclusion is becoming a lot more acceptable and normal. I’m making my way in that industry, coming in with a diversity mindset, teaching people to communicate with each other in the workplace.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I moved here [from Brazil] when I was a teenager. To learn English, I watched a lot of teen movies, so my idea of America and what people did was, like, [the movie] Clueless. So I thought “I want to be in fashion!” That’s why I went to fashion school, but it wasn’t quite what I thought it would be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you see common threads with your clients in your coaching work?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Absolutely. When they were studying, they had to cope with the fact that they didn’t have women professors, they didn’t have women peers. Their papers or their contributions in class weren’t as valued. They’ve been undervalued for a long time before even coming into the industry, so a lot of them are coming in with a lot of exasperation.&lt;/p&gt;
+
+&lt;p&gt;They already know, “I’m going to have to talk differently. I’m going to have to express my ideas differently. I’m going to have to put up with a lot of stuff I don’t want to put up with.” You’re already walking into this industry with this wall up, and a combative attitude. Sometimes that comes out as aggression, sometimes it comes out as fear and meekness. There’s this fine line that none of us can really walk: you’re either a pushover, or you’re a bitch.&lt;/p&gt;
+
+&lt;p&gt;I see a lot of commonalities in all my clients. A lot of imposter syndrome, especially when they’re doing a technical project. I’ve had clients that were straight up told, “you’re not going to be able to do this because you’re a woman.” I’ve talked to a woman who, before she goes into a meeting at work, writes the solution to the problem on a piece of paper and gives it to one of her [male] friends to say in the meeting. She’s tried so many times to speak up and give a solution, and it would just go out the window. Then a man comes up and says the same thing and suddenly they’re like, “oh cool, that’ll work.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I had an interest in tech, but more through the psychological side of it. I’m always interested in why people do the things they do. For me, it was always really interesting looking at tech companies and thinking, “why are they making this?” For me it was more intriguing to figure out why. So as a kid, it was just curiosity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t know if I had mentors, but I definitely had people showing me what not to do. Some male CEOs that I’ve worked for, some male coworkers. I gathered little bits of info here and there where I could to teach myself my own lessons and to figure out what not to do.&lt;/p&gt;
+
+&lt;p&gt;Now that I have a big community of women around me, I do connect a lot with them. I really am happy to have found &lt;a href=&quot;https://www.hiretechladies.com/&quot; target=&quot;_blank&quot;&gt;Tech Ladies&lt;/a&gt; and other communities like that. So now I do, but not so much coming up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to learn something technical next. A lot of women I work with are engineers, and I’m catching the jargon, but I don’t know everything. They’ll say, “I’m doing a project that involves x, y, and z,” and I’m like, “I don’t know what that means.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Women’s stories. Every day I read another story of a woman sharing her experience.&lt;/p&gt;
+
+&lt;p&gt;There are [also] more and more people that are not women or minorities coming out and saying, “hey, this is actually an issue.” That’s where the listening comes in. If you are listening and you’re paying attention, you start seeing patterns and think, “this might be an issue, with all of these stories put together.” I don’t want women to have to deal with some of the stuff that I’ve had to deal with anymore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My advice for girls coming up in the industry is to find a community early on. Nowadays it’s so easy: find someone you admire on Instagram, find someone who does something that you aspire to do. Find a community from the get-go. When you’re in school and you’re maybe the only girl in that class and you never have a female professor, it’s really important to have that support system.&lt;/p&gt;
+
+&lt;p&gt;My advice for men is to listen, and try to be aware of your own biases. It’s really hard for us to do that a lot of times. The actual work comes in in understanding your biases. You don’t know until you look at them, until someone else points it out. It’s one thing to start bringing in more women, start bringing in more minorities, another thing is to teach your team to work with those people.&lt;/p&gt;</content><category term="profile" /><summary type="html">If you are listening and you’re paying attention, you start seeing patterns and think, “this might be an issue, with all of these stories put together.” I don’t want women to have to deal with some of the stuff that I’ve had to deal with anymore.</summary></entry><entry><title type="html">Julia Kodl</title><link href="http://localhost:4000/julia-kodl/" rel="alternate" type="text/html" title="Julia Kodl" /><published>2017-09-06T00:00:00-07:00</published><updated>2017-09-06T00:00:00-07:00</updated><id>http://localhost:4000/julia-kodl</id><content type="html" xml:base="http://localhost:4000/julia-kodl/">&lt;blockquote&gt;
+  &lt;p&gt;It’s really nice to start seeing these little collectives of people that are in the industry getting together to make stuff, and be a support system for one another.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a developer for a new VR platform.&lt;/p&gt;
+
+&lt;p&gt;I started as an environment modeler and [since] then have taken on a lot more - mostly asset development, texturing, shading, and some scripting in Unity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What led you to your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I graduated from UCLA in 2008. I started there in physics, and then ended up in fine art. I took a job basically two weeks out of school with a regional chain of lawn and home improvement stores. I was their merchandise buyer [and] purchasing analytics person. Because I had some computer background, and the physics education, I was very familiar with number crunching and statistical analysis - so I applied for this job and got accepted, and I did that for seven years. Totally didn’t think I was going to be doing it for that long.&lt;/p&gt;
+
+&lt;p&gt;We were doing millions of dollars worth of purchasing and inventory turnover - that was always very rewarding to do and to get right. Then at one point I just decided I didn’t want to do that for the rest of my life.&lt;/p&gt;
+
+&lt;p&gt;I had a bunch of friends from UCLA who were tangentially in the video game industry, [and] I decided to go back to school. I went to Gnomon in Hollywood, and graduated in June. The program was Digital Production, but it was targeted specifically for video game development. It’s a very pointed certificate degree.&lt;/p&gt;
+
+&lt;p&gt;A former teacher of mine was going to be involved with my current company, and ended up taking up more work somewhere else, so introduced me to that position.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My father introduced me to the sciences really, really young and film really, really young. The first movies I remember watching and dissecting with him were science fiction films. It was always along those lines; when I was a kid I wanted to be a physicist.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you feel encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It definitely wasn’t a friendly environment in my undergrad. Just because it’s a very very different culture and I think not quite - I don’t want to say not accepting of women, but there were just so few women in that program that at that point it was a little strange. It was definitely culture shock.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I didn’t have a TV until I was 7; I grew up in a farm house. I didn’t have a lot of electronics.&lt;/p&gt;
+
+&lt;p&gt;The physics I was really interested in - and still am - is theoretical astrophysics, particle physics, so you’re relying heavily on computer projections to make judgments on things that you can’t always measure. I think that was really my introduction to it. It’s been interesting, too, because that field is so male-dominated. And then I went to video games - I’ve always been interested in those kind of fields. Math has followed me my whole life. Math and computers have followed me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Meg Bittle and Marcia Perry are the two women who run the Youth Arts Collective in Monterey. They’ve always been my biggest support besides my parents, who are just incredibly supportive of everything that I wanted to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been getting into particle effects for game engines. I very much want to continue that, because there’s not a lot of people who do it, and it’s problem solving. Getting those simulations correct is something I want to explore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any hobbies that are unrelated to your field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think it all ends up informing your work. I have a ton of plants, I’m really into botany. I feel it’s translated incredibly well into environment work - it all becomes very informative.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Puzzle solving. VR has turned out to be the best for that, because you have to take every shortcut possible. If you’re doing cinematic film effects, you can use as many polygons as you want, you can use as many texture maps as you want, there’s no limit on asset optimization. With VR, you have to optimize everything. You have to run it at a higher frame rate, and run quicker because of the dual lenses. The puzzle solving aspect of that is what keeps me going.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest hurdle I got over was talking to people who were telling me that you couldn’t make money doing art. That was the biggest thing. I would just say to anybody starting out in art fields is there are so many opportunities in special effects and in game design [where] you can make money making things.&lt;/p&gt;
+
+&lt;p&gt;It’s been a very friendly environment for me between school and this job, and then everybody I’ve met along the way - it’s a great community. I’m involved with Women in VR, which is a local group. It’s really nice to start seeing these little collectives of people that are in the industry getting together to make stuff, and be a support system for one another.&lt;/p&gt;</content><category term="profile" /><summary type="html">It’s really nice to start seeing these little collectives of people that are in the industry getting together to make stuff, and be a support system for one another.</summary></entry><entry><title type="html">Winnie Wong</title><link href="http://localhost:4000/winnie-wong/" rel="alternate" type="text/html" title="Winnie Wong" /><published>2017-08-22T00:00:00-07:00</published><updated>2017-08-22T00:00:00-07:00</updated><id>http://localhost:4000/winnie-wong</id><content type="html" xml:base="http://localhost:4000/winnie-wong/">&lt;blockquote&gt;
+  &lt;p&gt;In school I studied Computer Science. It’s sad because when I first joined the class there were quite a few girls - I mean more than five, but less than eight. My graduating class, other than me, there was just one more.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a Senior Software Engineer for the Walt Disney Company, in what they call Attractions Technology.&lt;/p&gt;
+
+&lt;p&gt;I’ve been there for almost seven years now. I first was hired in what they call Agency Services, which is a smaller team for rolling out smaller sites that have no e-commerce feature of any kind. It was fine, but it got a little boring for me, just because there’s not a lot of new challenges to do. So I moved on to an internal DevOps role. I really liked that better. There were a lot of things to solve, and also we had to be customer-aware for the teams and engineers we had to support internally. Later when they disbanded that team, I transferred to what is called the Tickets team. While I was there we worked on things like the Disney Cruise line checkout flow, before that the revamping of Disneyland.com tickets portion, then last year, Shanghai Disney Resort. We had to take into account real time availability and real time pricing updates from the backend. So I say that I like challenges. Every couple of years, I look around and say, “Okay, what’s new?” I have to keep moving.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you get into your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Prior to Disney I worked for IMDb, which is a subsidiary of Amazon. It was interesting; I definitely learned a lot. Amazon is the kind of place where you sink or swim. You have a lot of freedom to decide what the timelines would be like, but there’s also a lot of rope to hang yourself. If you’re self-motivated, it’s a great place to be, but the pressure and the hours can be a little overwhelming.&lt;/p&gt;
+
+&lt;p&gt;Before that, I was at the LA Times. I was doing Ruby on Rails there. And prior to that, I came from Earthlink in Pasadena. I was there for four years. Before that I was at a small technology company called ITG… So, I can go on and on. Before that I was with e-Toys, a toy start up company in Santa Monica. A long series of jobs.&lt;/p&gt;
+
+&lt;p&gt;In school I studied Computer Science. It’s sad because when I first joined the class there were quite a few girls - I mean more than five, but less than eight. My graduating class, other than me, there was just one more. And it’s sad to see my female friends slowly drop out through the school years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was very very little, I wanted to be a policewoman. I think I saw them and I thought that well, you know, this is a very noble profession. And when I got a little older, 6 or 7, I realized that it’s a really tough job and very difficult on your body. I wasn’t sure, but I knew I wanted to do something in math or science.&lt;/p&gt;
+
+&lt;p&gt;In high school I wanted to major in chemistry. I like it, it makes sense to me, and I actually think chemistry is my major when I first got to college, but I didn’t like the labs. I didn’t like that I had to spend six hours sitting in chemistry labs. I thought how boring a chemist’s life would be.&lt;/p&gt;
+
+&lt;p&gt;My dad majored in both physics and chemistry in college, so from very early on he instilled a sense of curiosity in science in us. I have three sisters and no brothers. Growing up I’ve always thought that I want to understand more of this because I want to understand why my dad is so fascinated by chemistry and physics. My dad didn’t end up being a scientist. He ended up working in the department of education in Hong Kong. He eventually became a principal in schools in Hong Kong and I think it was good that he understood why students need to learn science. I learned that from him.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you feel encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s funny you say that. I grew up in Hong Kong and my family didn’t immigrate to the US until I was 13. And in Hong Kong we were in the private girls’ school. I definitely didn’t feel any of the stigma that I’ve read about that girls growing up in the U.S. can experience. None of that at all.&lt;/p&gt;
+
+&lt;p&gt;When I came to junior high and high school in the U.S., I guess we were fairly sheltered in the sense that my parents picked a good school district. All the students expected to do well in school. For high school my parents made us enroll in gifted schools. So personally I didn’t feel the stigma of “girls aren’t supposed to do well in math and science.” But I can see how a lot of other people who had education here had that experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My dad brought home - I don’t even remember what kind of computer it was. I remember thinking “okay, let me try to do this.” I somehow got my hands on a magazine, and it had simple Basic instructions, and I was like, oh, let me try this. I tried a few lines and I’m like, oh wow, this does what I think it should do. Okay. And then I got a little more into it and I showed all my sisters. And they were like “okay, this is kinda cool.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My dad, definitely. I like the way he taught us and encouraged us. When we came across a problem that we couldn’t figure out, we’d ask him. He’d first pull out a fresh page of paper, and then he’d state the problem in our words, and now work from there. When you do that instead of reading the problem in someone else’s language, it helps to rephrase it in your own language. And then you read it a couple times, and then you understand what the question is and you start to formulate a plan.&lt;/p&gt;
+
+&lt;p&gt;Also, the department head of computer science at my school. When I first went to college I was a chemistry major. I didn’t really like it, and I dropped out of school and worked for a couple of years. I realized all the internal job postings that I wanted required a bachelor’s degree. And I thought, okay, should I go back to school. I thought about it - but do I really want to be in the financial field? I know they have a sales quota they need to meet, like every month, every quarter, every year, and it doesn’t matter how well you did month before, the week before.&lt;/p&gt;
+
+&lt;p&gt;I thought about it some more, and I thought, well you know, I think I’m going to go back to school to become a geologist. I quit my job, which at the time, was a big deal because I went from full income to no income. I moved in with my sister. When I was picking the classes for my geology major, I thought to myself, I’m not 18 years old, I’m starting this a little late, I need to have an edge; why don’t I take a CS 101 class?&lt;/p&gt;
+
+&lt;p&gt;The department head at the time happened to be the professor of the CS 101 class. I didn’t know why, but he would always pick on me. I think I cut a couple of classes, and he would always call me out in the next session. A couple of times he caught me smoking in the corridor and he gave me a verbal lecture for twenty minutes. More than a couple of times he asked to see me in his office, and I always thought that I did something wrong, I was going to fail. He would sit me down and ask me, “what do you want to do?” And I was like, we’ve had this conversation before. I’m going to become a geologist.&lt;/p&gt;
+
+&lt;p&gt;He told me he’s been a department head at the school for a while and he hasn’t seen someone who can do the coursework so well and so easily. He told me that, I know you think you want to be a geologist, but please think about what I’m saying. When I went home, I looked at my schedule again and I changed a couple things, and I thought maybe I’ll take CS 102 and see how things go. And looking back, that’s the beginning of everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m starting to learn about assistants - like Google Home or something like that. Let’s just say that buying a home has wiped me out financially, so I don’t want to pay money for it. So I’m like, you know what, there’s a lot of SDKs out there. I bet I could learn it and figure out what I want to do. That seems kind of fun. We have an old Raspberry Pi lying around in our home that I haven’t been doing anything with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any hobbies that are unrelated to your field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes - travel. I’m from Hong Kong, and when my parents first moved to the US, we moved to New York. That’s where my little sister still lives, so I feel really close to New York even though every time I go it changes a lot. My husband is from Argentina, and his sister lives in Spain. My goal is to visit all the national parks in the U.S.&lt;/p&gt;
+
+&lt;p&gt;For a while, I was really into Muay Tai. We would have friendly spars with friends who are also into that, but I injured my shoulder while trying to train to be more fit. So recently I’m just starting to get into what they call bouldering, like indoor rock climbing. You go really high. Bouldering is a problem set. You see a wall and you have different levels, let’s say yellow is the easiest level and red is hardest, and even though there are different rocks, you can only stick to one color. You can do whatever you want, no one is judging, but you get fit very fast. I’m sore all the time.&lt;/p&gt;
+
+&lt;p&gt;I also play the piano. I’m not very good. When I’m stuck with a problem, I find that it helps to loosen my brain a little bit to do something different. Then when I revisit the problem, it doesn’t seem as overwhelming to me. It’s a good way to exercise a different muscle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think I always need to be challenged. When I overcome a challenge, I’m happy about it and I rest for a little bit, and then I start thinking, okay, what’s next?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t be afraid of hard work. It’s easier to work hard when you’re younger and your mind is more moldable. Think about what it is that you want to do, but also be pragmatic. Think about what will be good for you to ensure security in your life. And it’s possible to blend too; you don’t have to sacrifice passion [for] job stability or financial stability. You do have to work hard to give yourself that edge. No matter what field you’re in, science or not, that’s something you should always think about.&lt;/p&gt;
+
+&lt;p&gt;Don’t be afraid to get into something that you don’t know anything about. There’s a lot of resources out there, a lot of support you can find online, a lot of support you can find in person. If you ask for help, I find that very few people will say no.&lt;/p&gt;</content><category term="profile" /><summary type="html">In school I studied Computer Science. It’s sad because when I first joined the class there were quite a few girls - I mean more than five, but less than eight. My graduating class, other than me, there was just one more.</summary></entry><entry><title type="html">Rae Rivera</title><link href="http://localhost:4000/rae-rivera/" rel="alternate" type="text/html" title="Rae Rivera" /><published>2017-07-28T00:00:00-07:00</published><updated>2017-07-28T00:00:00-07:00</updated><id>http://localhost:4000/rae-rivera</id><content type="html" xml:base="http://localhost:4000/rae-rivera/">&lt;blockquote&gt;
+  &lt;p&gt;I feel like the things that I’m scared of and not good at initially - those are the things I really gravitate towards.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I study Electrical Engineering Technology &amp;amp; do my undergraduate research in biotechnology at California State Long Beach. I’m also an intern at a startup called AstroLabs, and work closely with NASA engineers and scientists.&lt;/p&gt;
+
+&lt;p&gt;At AstroLabs, I’m working on the front end of the company’s first product and developing a GUI for satellite constellations. Thousands of satellites are going to be launched into space over the coming years. So what we’re developing will provides a constellation analysis, spacecraft information, and orbital operations of hundreds of satellite orbiting Earth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you get into engineering?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I really got into engineering from competing when I was younger, but in college I was initially interested in studying mechanical engineering, since I liked biomechanics and wanted to do bioengineering. I changed to electrical because of my research; I do research under a fellowship called RISE (Research Initiative for Scientific Enhancement) through school. I’m in two labs; the one that I mainly focus on [involves] developing an attachment device to help lower-limb amputees recognize sensations linked to falling that they’ve lost. The other research I do is linked with post-stroke patients; I helped develop a device that analyzes and helps correct their gait.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Growing up I wanted to be a lot of different things like an archaeologist or a video game designer, but I was really set on being a brain surgeon - just imagine a 6 or 7 year old sitting in front of “ER.” I would watch those shows and I would pretend I was a student and take notes on what they were doing. But I realized that’s not what I wanted to do. I wanted to be more involved - I wanted to be an inventor, or scientist of some sort. That’s how I got into engineering initially.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you feel encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My teachers from grade school supported me because they saw potential in me. But sometimes I was discouraged. I remember having a really hard time with multiplication and division. My dad would always try to help me with my math homework, and one day I said, “you know what, Dad, I don’t want to do anything with numbers again! I hate it, I can’t do it.” I just took that summer to actually work on it, and then I liked it after that.&lt;/p&gt;
+
+&lt;p&gt;I remember in college I wasn’t doing so well in the math class; [my advisors] were like, “okay, Rae, so you’re in engineering right now, so you gotta know math. Since you’re not doing that well compared to other students, maybe you should switch into something like communications or liberal arts.” They kind of put me in a situation - try considering the arts or teaching or something.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you overcome that discouragement? Did it come naturally?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh no! When you really feel passionate about a field and you genuinely enjoy it, any obstacle that comes with it can be conquered- if it’s math that I’m struggling with, then I’ll focus on that, if it’s science, then I’ll focus on that. You figure out what’s wrong and then you learn how to get through it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a kid, I was weird. I read encyclopedias. I really gravitated towards Galileo and Leonardo Da Vinci, so I read up on what they did, and it opened up more doors.&lt;/p&gt;
+
+&lt;p&gt;The first time I really got involved was when I did national engineering competitions back in middle school. I was still in that mindset of “I don’t want to do math or science, I want to be in the arts or something,” but my friends, Reggie, Kim, and Breanna, got me to do this. Next thing you know we won first nationally.&lt;/p&gt;
+
+&lt;p&gt;We built a windmill. It generated electricity, it moved a car that we built, it lifted masses and had to follow an oscillating fan. We competed three times and we would always end up in either nationals or state. That’s when I was like, “Okay, I’m good at this.” Plus, my friends were doing it too and they made it fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our math teacher in 8th grade, Mr. Mills - when we would compete, we called him Mama Duck. We were his little ducklings. I still keep in touch with him today and update him with my life. He’s the one who really got me into math and science despite how I was struggling. He really worked with me. He helped with my foundation. I also have my “mom” on campus, Mama Saba, who helped me with opportunities and my research mentors, Dr. Buonora, Dr. Marayong, and Dr. Khoo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I wasn’t really into programming before, but I took my first programming course in the spring and actually enjoyed it. I feel like the things that I’m scared of and not good at initially - those are the things I really gravitate towards. I’m working with Julia now, and I want to learn how to marry the things I’m learning [about] space with my passions [in] biotech. I kind of want to find that fusion, but I just haven’t quite found it yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any hobbies that are unrelated to your field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I really love playing video games - my all time favorite is The Legend of Zelda. What I’ve been playing more recently is Overwatch and it’s super fun. But when I’m not by the computer, I like scuba diving since I really love fish. It’s cool, it’s how you would imagine an astronaut would feel in space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are so many things in a lifetime to do and to learn about. I don’t want to say I’m captivated by it, but it’s fascinating to know the unknown. I like to picture myself now meeting my younger self, or even meeting my future family and kids. When I’m doing the things I do now, I just want to be the person that they would want to look up to and strive to be one day. That’s what really motivates me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t be discouraged, despite all the challenges. People might say, it’s a male dominated field or you don’t have the skill set, but don’t let that stop you. Let that challenge you and motivate you to do better. Constantly challenge yourself to the point where you’re not bored with life and realize what you’re truly capable of. If it’s your dream, always be resilient.&lt;/p&gt;</content><category term="profile" /><category term="featured" /><summary type="html">I feel like the things that I’m scared of and not good at initially - those are the things I really gravitate towards.</summary></entry><entry><title type="html">Farah Alibay</title><link href="http://localhost:4000/farah-alibay/" rel="alternate" type="text/html" title="Farah Alibay" /><published>2017-06-21T00:00:00-07:00</published><updated>2017-06-21T00:00:00-07:00</updated><id>http://localhost:4000/farah-alibay</id><content type="html" xml:base="http://localhost:4000/farah-alibay/">&lt;blockquote&gt;
+  &lt;p&gt;One thing I wish people had told me going into the field is that whatever experiences I’m going through, I’m not alone, and I’m not crazy. So many times, I’ve discussed something that’s happened to me with another female engineer or scientist and had them say “oh, yeah, I can relate to that.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a Systems Engineer at JPL.&lt;/p&gt;
+
+&lt;p&gt;When we build a spacecraft, we have different subsystems - the power system, subthermal, etc. We also have limited resources. My job is to get the subsystems to play nice with each other, so I have to know a little bit about everything. I also have to work with scientists to make sure that their desires are accomplished.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you get into your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I always wanted to work in space. I went to Cambridge and studied Aerospace and Aerothermal, but mostly airbreathing propulsion. I worked on jet engines, basically. I did my undergrad and Master’s there.&lt;/p&gt;
+
+&lt;p&gt;I was offered a job at Rolls Royce, but decided to take the risk and go to MIT for grad school. I’d been to MIT before for an exchange program; that’s when I got introduced to systems engineering. I wasn’t sure I was going to like it, but I had done an experimental Master’s and wanted to do an analytical PhD instead.&lt;/p&gt;
+
+&lt;p&gt;A few people at MIT were doing research on systems architecture, and I thought that was really interesting. I went down that route, and started interning at JPL. I tailored my research in school to some of the research questions they had at JPL.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was very little, I wanted to be an archaeologist because of Jurassic Park. Then Apollo 13 came out, and I wanted to be an astronaut instead; I still do.&lt;/p&gt;
+
+&lt;p&gt;Growing up in an Indian community, the thing to do traditionally was to be a doctor or dentist. Those were seen as “high status” jobs; but then I didn’t like biology, so that was maybe not the thing for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you feel encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My parents were always encouraging of whatever I wanted to do. My dad is an engineer, and my mom’s two brothers and sister are all engineers.&lt;/p&gt;
+
+&lt;p&gt;I went to an all girls school, and there were only four girls in our advanced math classes and in physics. From my class of 120, I was the only girl going into engineering. There was one girl who went into math, but that was it.&lt;/p&gt;
+
+&lt;p&gt;When I told my career advisor I wanted to be either a doctor or an engineer, she told me that engineering was a male-dominated field and she didn’t think I would be okay in that field. I was like, “screw you!”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I remember my first memory of being interested in engineering - my dad built a deck for our swimming pool when I was 8 or 9, and he taught me how to cut wood, drill stuff, that was really cool.&lt;/p&gt;
+
+&lt;p&gt;After that it was mostly in high school. One of my math teachers took it upon himself to teach us how to code. We used Visual Basic, and he made this website with a series of math challenges. We would come in at lunch time or after school and learn to code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In high school, one of my math teachers really pushed me harder than everyone else. He was known as the hard-ass math teacher. He made me do modules that we weren’t doing for exams. He knew that my school wasn’t going to have me prepared enough for the engineering classes at Cambridge, so he always pushed me really hard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are your favorite or most-used tools?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of my job uses PowerPoint, which is horrible. A lot is also MatLab, which is great. There’s this divide at my job over MatLab; you either like it or don’t. I like it.&lt;/p&gt;
+
+&lt;p&gt;We have a lot of homegrown tools at JPL as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I just changed jobs; I was originally in mission planning and early mission concept, and I just moved to ATLO (Assembly Test and Launch Operations). I’ve never done ATLO for a larger mission, so it’s brand new for me. I’ve written requirements, but I’ve never done verification and validation, so I’m learning that side now.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any hobbies that are unrelated to your field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been doing weight lifting since college. I tend to go through hobbies, but I found weight lifting really great in grad school because it’s almost like meditation.&lt;/p&gt;
+
+&lt;p&gt;I also recently started climbing; I think a lot of engineers are climbers. Again, it’s one of those sports that is meditative; it’s just you and the wall. It’s also kind of a problem to solve, which is why I think a lot of technical people like it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At JPL, we do things that no one else has ever done before. We get to send stuff to space. The issues that we face don’t have an answer yet. That really motivates me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I always say follow your passion. Make sure that whatever you’re doing, you’re not doing for anyone else, and if you’re passionate about something, do stuff outside of school or work that will enhance that.&lt;/p&gt;
+
+&lt;p&gt;One thing I wish people had told me going into the field is that whatever experiences I’m going through, I’m not alone, and I’m not crazy. So many times, I’ve discussed something that’s happened to me with another female engineer or scientist and had them say “oh, yeah, I can relate to that.” Engineering is very much about people and experiences with people; I’ve learned more about my people skills than I have about engineering, which I was not expecting going in.&lt;/p&gt;</content><category term="profile" /><summary type="html">One thing I wish people had told me going into the field is that whatever experiences I’m going through, I’m not alone, and I’m not crazy. So many times, I’ve discussed something that’s happened to me with another female engineer or scientist and had them say “oh, yeah, I can relate to that.”</summary></entry><entry><title type="html">Jelena Woehr</title><link href="http://localhost:4000/jelena-woehr/" rel="alternate" type="text/html" title="Jelena Woehr" /><published>2017-06-08T00:00:00-07:00</published><updated>2017-06-08T00:00:00-07:00</updated><id>http://localhost:4000/jelena-woehr</id><content type="html" xml:base="http://localhost:4000/jelena-woehr/">&lt;blockquote&gt;
+  &lt;p&gt;If you want to get into the tech field, there is absolutely a startup that can use whatever skill set you already have. I don’t have anything against going to a bootcamp and learning to code, but before you take that route, look around your local landscape or consider moving to a city with more startups, and see if you can find a place where you can get that first job with the skills you already have.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m the Head of Community for Flipagram.&lt;/p&gt;
+
+&lt;p&gt;Although some organizations treat community as a marketing role, in my current role the primary function of Community is to ensure that the product team is getting the insights that they need from the community, and that they’re making the right decisions based on our users’ needs. We interact directly with our community to create the right environment for people to feel comfortable and at home, including moderation and abuse management to keep the community safe. We also deal with influencer relationships, and things like push notification campaigns. Basically, anything that touches the user directly, my team has some sort of hand in.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you get into your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mostly accidentally. I was a dog food sales rep, then got a temporary gig helping Yelp launch in Denver, and I wanted to quickly turn that into something else while that was still fresh.&lt;/p&gt;
+
+&lt;p&gt;I applied for a social media marketing job, even though I had no idea what that was, with a social network for people with disabilities; they liked my writing style, so I was able to get that position. When that company folded, I landed at another company that had had a content partnership with them.&lt;/p&gt;
+
+&lt;p&gt;That company was then acquired by Yahoo; I spent four years there. I was there for Marissa Mayer showing up. I never ended up meeting her in person, but we talked all the time on this massive email list at Yahoo that 8,000 of the 14,000 employees are on, including Marissa.&lt;/p&gt;
+
+&lt;p&gt;I ended up leaving when they shut down our office in Denver. I thought, if I’m going to move to California anyway, I may as well look for some other options.&lt;/p&gt;
+
+&lt;p&gt;I found GOOD, which just won a national magazine award. It’s a magazine that is sort of the Rolling Stone of social good. I was there for about 11 months, and then a friend of GOOD’s CEO was looking for his first Community hire at Flipagram. They were about to launch their own network and needed someone to build the Community team from the ground up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I wanted to be an animal behaviorist. In high school, I attended community college for both high school and college credit. I graduated high school with almost two years of college credit already, and then I ended up working for $7.25 an hour at PetCo. That set off the chain of events that landed me in social media. I ended up finishing my Bachelor’s degree while I was at Yahoo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My dad is a computer developer, and he gave me a little computer - the one that had the screen attached to the keyboard, it was all one unit with a little green screen. All you could do was write a program in Basic. I used to write little programs that would ask a question and make a rhyme with whatever your answer was. Silly stuff like that.&lt;/p&gt;
+
+&lt;p&gt;From a young age I was also into a lot of online communities and forums and chat rooms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I couldn’t call her a mentor because we weren’t working together that closely, but I am very inspired by Marissa Mayer and the decisions that she made with Yahoo, something a lot of people wouldn’t have touched. She’s maintained an incredible amount of calm through the way the media has treated her. It’s admirable that she can be so neutral on so many things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What has been your favorite project you’ve worked on?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Working at GOOD was great, even though the product wasn’t able to sustain the grant money to get out of beta. It was a really cool play to create something for organizers for social good; something that would have a bit more discretion than organizing something through Twitter, for example.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m studying for the LSAT; I got addicted to doing the logic games, and I thought I should just take the test and see how I do. Now it’s become an exercise to force myself to learn study skills.&lt;/p&gt;
+
+&lt;p&gt;I’d also like to learn more UX tools like Illustrator and Sketch. Also SQL; honestly, a little bit of everything. I don’t know if there’s anything I don’t want to learn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It changes over time - I get a different answer every time I take the Meyers-Briggs test. When I take the enneagram, I always get 3, which is kind of the arrogant person who is very motivated by external praise and approval. I want to impress people that I respect. Also a quest for knowledge and understanding. How much I’m motivated by particular types of learning and other factors varies over time. The most consistent motivation that I have is just wanting to be in the middle of things, and know what the real story is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure out what strengths you bring to the table that can get you in the door. The thing that got me in the door was that I’m a good writer.&lt;/p&gt;
+
+&lt;p&gt;If you want to get into the tech field, there is absolutely a startup that can use whatever skill set you already have. I don’t have anything against going to a bootcamp and learning to code, but before you take that route, look around your local landscape or consider moving to a city with more startups, and see if you can find a place where you can get that first job with the skills you already have.&lt;/p&gt;</content><category term="profile" /><summary type="html">If you want to get into the tech field, there is absolutely a startup that can use whatever skill set you already have. I don’t have anything against going to a bootcamp and learning to code, but before you take that route, look around your local landscape or consider moving to a city with more startups, and see if you can find a place where you can get that first job with the skills you already have.</summary></entry><entry><title type="html">Kristy Houle</title><link href="http://localhost:4000/kristy-houle/" rel="alternate" type="text/html" title="Kristy Houle" /><published>2017-04-17T00:00:00-07:00</published><updated>2017-04-17T00:00:00-07:00</updated><id>http://localhost:4000/kristy-houle</id><content type="html" xml:base="http://localhost:4000/kristy-houle/">&lt;blockquote&gt;
+  &lt;p&gt;I’m always looking to identify those scenarios that aren’t easily accounted for that could cause an issue down the road. I love those ‘good catch’ moments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a Software Quality Assurance Tester.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What led you to your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have a degree in Management Information Systems. I originally studied engineering in college, but in my last year realized I had a greater passion for computer technology than engineering, and changed my Major. Once I graduated, I started an IT internship with a healthcare company that eventually led to a full-time position in Quality Assurance. I knew right away that this was perfect fit for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;
+Growing up I loved animals and wanted to be a veterinarian. I think I soon realized that although I love animals, I didn’t have the stomach for all that veterinary medicine would require.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In high school I was interested in photography, and I remember vividly when one of my classmates showed me a digital camera, which was new at the time. I thought it was so cool that you could view and delete pictures before they were printed. At the time, the pictures were terrible and grainy, but the concept itself was what amazed me, and now film has become a thing of the past.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you remember feeling encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was always encouraged by my parents to pursue something technical. When I was younger I was always interested in taking things apart and learning about how things went together. I excelled more in Math and Science, rather than subjects like History and Literature, so it was easy to see that was where my passions lied. I was told to find something I ‘liked’ to do, but at the same time I was also told be practical as far as finding something that would allow me to make a living.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you had any mentors or champions along the way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Even though it was long before I started my career in IT, in high school I was the only female CAD Drafting student in my class. I had a drafting teacher that really encouraged me and made me feel that it was a positive thing to be interested in things that were maybe more male dominated at the time. Because of him I started an internship that not only gave me experience in CAD, but also opened the door to really learning about computers and technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What has been your favorite project you’ve worked on?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This past year I started working on a Customer Relationship Management tool. Because this was different than the types of applications that I had worked on in the past, I enjoyed the change and challenges that came along with it. The customer was consolidating their sales systems from many outdated databases into one sleek tool where all their data could be accessed. It was fun to watch the new application come together and the reaction of the Sales team to the end product.&lt;/p&gt;
+
+&lt;p&gt;This was also my first time working as part of an Agile – SCRUM Team which was new and fun experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are your favorite or most-used tools?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I use YouTube so often for a reference tool. I taught myself to knit by watching tutorials, and when it came to learning more advanced techniques it’s always my go-to tool. Recently I have been working to train my dog, and have picked up so many useful tips and tricks from experienced trainers. If a picture is worth a thousand words, a video is even better!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I always love to learn new things and take on new challenges. As far as my technical skills I would love to learn more about Test Automation tools. It can be an excellent time saving tool for repetitive testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What hobbies do you have that are unrelated to your current field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I love to cook, knit, ride motorcycles, and hike with my family.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Feeling like I did the best job possible to deliver a quality product to my business customers.  I’m always looking to identify those scenarios that aren’t easily accounted for that could cause an issue down the road. I love those ‘good catch’ moments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Never be afraid to try something new. If there is something you want to do or try, give it a shot. It is far better to try and fail than never try at all.&lt;/p&gt;</content><category term="profile" /><summary type="html">I’m always looking to identify those scenarios that aren’t easily accounted for that could cause an issue down the road. I love those ‘good catch’ moments.</summary></entry><entry><title type="html">Stephanie Perea</title><link href="http://localhost:4000/stephanie-perea/" rel="alternate" type="text/html" title="Stephanie Perea" /><published>2017-02-16T00:00:00-08:00</published><updated>2017-02-16T00:00:00-08:00</updated><id>http://localhost:4000/stephanie-perea</id><content type="html" xml:base="http://localhost:4000/stephanie-perea/">&lt;blockquote&gt;
+  &lt;p&gt;Stephanie is an interactive producer, soon to be starting a new role in the rapidly expanding world of VR.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Her role as a producer means she is responsible for making sure her team of designers and developers has what they need to be successful. As a dual major in Business and English, she was able to carve out a role in the creative and interactive industry. Today, we chat about some of the tools of the trade, taking on side projects, and the unique positioning of VR in Los Angeles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m an Interactive Producer, or Digital Producer.&lt;/p&gt;
+
+&lt;p&gt;I’m currently between ending one job and starting another at a VR studio. My role in tech has always been working with designers and developers on products. In a typical day, there’ll be checking in with designers and developers from a schedule perspective, and understanding what their challenges are.&lt;/p&gt;
+
+&lt;p&gt;I support project management aspects of it - there might be, let’s say JIRA tasks, to be moved around. But on certain issues, if there’s a blockage, my role [is] going in and understanding what challenges my team is going through that I can help solve in a non-technical way. What are the bigger contextual challenges? Resources, budget, something that they need a new tool for? In some cases, we dive in deeper to say “this tool we’re using is not doing the right thing,” and we make the evaluations. So I’m that support team.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What led you to your current role?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My first job out of college was in a creative development group at Disney Interactive. I got that job because my hiring manager looked at my two majors - Business and English - and she’s like “okay, she’s got the business/marketing background, and she’s got English, so she can write.” [I did] research and pitches.&lt;/p&gt;
+
+&lt;p&gt;I’ve always been on the creative side, but that was my first foray into a creative technical world. I really, really enjoyed that universe. Plus, it was gaming; I grew up playing games, grew up in front of a computer. So I always leaned toward interactivity and the creative aspect of that.&lt;/p&gt;
+
+&lt;p&gt;I spent a couple of years there, then went to creative agencies. They were all interactive and digital, so I drove projects there. At the last agency I was recruited over by a previous manager from a different company. I still did the same thing there; essentially, my role has always been the same, but in a lot of different aspects of interactive experiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I definitely remember playing the original NES Nintendo, and playing Mario Brothers. Actually, the most consistent memory I have is being at home at our home computer. Windows 95, and AOL Instant Messenger, doing homework. Even before that, I think in fifth grade, I remember typing class. I loved sitting there and clicking away, feeling like things were happening at the speed that I was thinking. I really enjoyed that part.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are your favorite or most-used tools?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Being a producer, and also being at different companies, I’ve had to adapt to a lot of different ones. Typically they’re project management tools, from JIRA to Confluence to Basecamp. There’s another called Active Collab. I worked with one called Workamajig.&lt;/p&gt;
+
+&lt;p&gt;The tools that I usually use aren’t consistent, but they always revolve around project management.&lt;/p&gt;
+
+&lt;p&gt;I’ve actually leaned toward Basecamp to a certain degree for lighter projects. I have two other side projects that I’ve been supporting, and I’ve been encouraging Basecamp to be that tool, but there are a lot more online tools that are designed and priced for smaller organizations.&lt;/p&gt;
+
+&lt;p&gt;Being in production project management, there’s an unending debate about what is the best tool. Every single group I go to, it’s always the first question. You can’t really answer that question right away without really understanding how an organization [and] a team works. Some people can actually get a lot more done [with] Slack, and maybe just a scheduling tool. Other groups might really need that nitty gritty detail. You just have to see what your team works with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My next job is going into a VR studio. What’s interesting right now in the industry is the film and TV aspect of CG, 3D, creating content there. They have a lot of resources to bring to the table in terms of their pipeline and their asset building. VR is an interactive experience, and the film and TV industry knows that they don’t necessarily have that strength, so they look to game designers and interactive developers to bring that. I’m interested in learning more about how to think about those kinds of problems; taking a very traditional but very successful enterprise and integrating it into something new.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What hobbies do you have that are unrelated to your current field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m trying to run my first marathon in March. I was honestly inspired by Angela when I first worked with her. She had all of these medals, and she talked about the experience of it, and I hadn’t exercised really or done anything healthy in a long time. So I picked that up. It was cheap, and it was also something I didn’t have to go take lessons for. Fast forward three years later, I went from not being able to run a mile and now I’m trying to do a marathon.&lt;/p&gt;
+
+&lt;p&gt;Aside from that, I don’t normally have hobbies that are not my work. My husband is totally different; he’s an art director, and he’s a drummer in a band and he likes to tinker and do a lot of different things. For myself, my passion is helping people and working with teams. So I mentioned earlier, I’m working with two other projects. One is leveraging my producing skills to help a nonprofit launch a podcast. The other is working with a friend of mine to put out a political protest book.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ambition. I want to do well. If it’s not just an internal sense of ambition, it’s also because I like to please people, especially working in teams and working in an environment where everybody has to collaborate in order to have success. Those are my drivers - I want to make sure that people always have a good experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest piece of advice that I have is to be inclusive; understand that you didn’t know something at some point.&lt;/p&gt;
+
+&lt;p&gt;I do have this tension in my head all the time about “being in tech,” but not being technical, and from that perspective I try to encourage other people like me that, “no, you are in tech.”&lt;/p&gt;
+
+&lt;p&gt;If I come across somebody who is a young woman coming into the field, my encouragement is always to go for it. You want it, you know what you want, and don’t be deterred. There’s empowerment in wanting something. Lean into it.&lt;/p&gt;</content><category term="profile" /><summary type="html">Stephanie is an interactive producer, soon to be starting a new role in the rapidly expanding world of VR.</summary></entry><entry><title type="html">Angela Jay</title><link href="http://localhost:4000/angela-jay/" rel="alternate" type="text/html" title="Angela Jay" /><published>2017-01-28T00:00:00-08:00</published><updated>2017-01-28T00:00:00-08:00</updated><id>http://localhost:4000/angela-jay</id><content type="html" xml:base="http://localhost:4000/angela-jay/">&lt;blockquote&gt;
+  &lt;p&gt;I learned early on that there’s no shame in asking for help. It’s a win-win because when a person has to explain a concept, she will gain a better understanding of it herself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a Software Developer.&lt;/p&gt;
+
+&lt;p&gt;My current work involves PLC programming for computer automation and control. It’s completely new to me as I’ve always done more general and web programming. I will be learning the structured text language and more about the world of automation engineering.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What did you want to be growing up?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I went through many phases. At one point or another I wanted to be a doctor, a lawyer, an architect, a graphic artist, or a business owner (not sure of what, exactly).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What hobbies do you have that are unrelated to your current field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m pretty active. I’ve run 9 marathons and have 2 more this year. I also play inline hockey in a coed recreation league.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your first memory of being intrigued by technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I played a lot of video games with my brother and cousin. Some of my earliest memories were sneaking into my uncle’s room to play DOS games like King’s Quest and The Incredible Machine. I learned the “dir” and “cd” commands trying to go through his directories to find games he’d installed. Our family eventually got a Macintosh (LC?) and then a Windows 95 PC. Our first console system was an NES and we’d stay pretty loyal to the Nintendo line. Between me and my brother, I think we’ve owned almost every system from the NES through the Wii U, including many of the handhelds. That didn’t stop us from sneaking into our other uncle’s house to play on his Sega Genesis though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you remember feeling encouraged or discouraged about going into technology?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It wasn’t until my junior year of high school that I decided I would go into computer science, and up until then, technology was just something I used and felt comfortable with. I took advanced placement classes in CS, and it was hard! Our teacher was a math teacher who’d dabbled in programming and tried to explain recursion with index cards. My parents were traditional small business owners who didn’t really use the computer much, so they couldn’t help me with my homework. I was fortunate to have a (female!) classmate whose parents were engineers. I tapped into her and some other classmates as a resource and learned early on that there’s no shame in asking for help. It’s a win-win because when a person has to explain a concept, she will gain a better understanding of it herself when teaching it to someone else. Throughout college and in my career, I’ve felt discouraged at many points, but I’ve always counted on asking for help or advice when I need it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What has been your favorite project you’ve worked on so far?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t think I can pick an all-time favorite. Everything I’ve worked on has had some aspect that I’ve really enjoyed. I’m usually most excited about whatever I’m currently working on though because I get very invested, emotionally and mentally, whenever I get going on a project. A recent favorite is the Disney Ghost Post project, which won a Thea Award. I programmed an interactive “haunted” binnacle that was installed in Disneyland, and guests were able to physically interact with it to help guide home a lost ghost. I prototyped the electronics to control the servo motors and LED lights that made up the effect and wrote the show and game code for the guest interaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What motivates you?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wanting to deliver on or exceed expectations, both to my colleagues who are counting on my work and to the countless guests who choose to spend their time and money on a Disney vacation. I want to do work that brings value, that is innovative, and that I can be proud of.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you stay productive?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I try to limit distractions when I need to get things done and set myself up to succeed by planning ahead. Little things like ensuring I have food to eat are important because nothing is more of a productivity-killer than getting into the zone and having to stop because my stomach is growling. At the same time, I also highly value non-work time. It’s when I get to reset and stop thinking about a problem. Often times, it’s when I’m not thinking about a problem that I subconsciously come up with a solution. Also, I love my sleep. Your mind and body can’t function properly when it’s sleep-deprived.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who has inspired you in your career?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve found inspiration in friends, family, colleagues, interns, and managers. My friends and family who are passionate about whatever it is they do inspire me to find passion in my chosen career. I have incredibly smart, innovative, and driven colleagues who inspire me every day to do my job as well as they do. Many of the interns I’ve worked with have inspired me with how quickly they’ve learned, grown, and succeeded. One of my mentors at Imagineering has been a great resource, not only providing guidance on navigating my career but setting an example of what it means to innovate and think outside the box. My manager has been an especially great mentor, showing me over the last 6 years what it means to be level-headed and emotionally mature in my career and how to not just set goals but plan a path toward them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are your favorite or most-used tools?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Google. I have a habit of thinking of something and needing to learn more about it immediately. Also Google Sheets. I plan everything in spreadsheets, from software requirements to vacation planning, and having access to them on every device makes it even more convenient. Sublime Text is my code editor. I use various forms of Git for version control, but I prefer using shell commands over GUIs. I like OmniGraffle for system and software design.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want to learn next?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My hope for every new project I’m on is that I learn something I haven’t done before. I prefer to learn on the job because I like the immediate practical application of my newfound knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What advice do you have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Learn as much as you can about everything, not just techie things. Technology is a means to a creative or practical end, so you have to know other domains. Ask questions. Google things you don’t know. Speak up and be assertive. Don’t take things personally or read more into other people’s intentions. Seek out like-minded people who will support you. Accept that there will be times when you feel lost or incompetent, but have confidence that you will figure things out. Lastly, help others succeed. When you raise up the people around and above you, they’ll bring you up with them.&lt;/p&gt;</content><category term="profile" /><summary type="html">I learned early on that there’s no shame in asking for help. It’s a win-win because when a person has to explain a concept, she will gain a better understanding of it herself.</summary></entry></feed>

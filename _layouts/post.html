@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% include navbar.html %}
+
+<div class="container-fluid">
+  <div class="row post pb-5">
+    <div class="col-xl-8 offset-xl-2 col-md-10 offset-md-1 mt-md-5 mt-3 col-12">
+      {% include post-meta.html %}
+      <img class="float-md-left col-xl-5 offset-xl-0 col-md-7 offset-md-0 col-10 offset-1 mt-3 mr-4 px-0 py-3" src="{{site.github.url}}/assets/{{page.asset_id}}/profile.jpg">
+      {{ content }}
+    </div>
+  </div>
+</div>

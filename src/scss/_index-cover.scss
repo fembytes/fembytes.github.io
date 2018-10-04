@@ -1,0 +1,81 @@
+.index-cover {
+  display: flex;
+  flex-direction: column;
+
+  .card {
+    flex-grow: 1;
+  }
+
+  .latest-title {
+    color: $body-color !important;
+
+    &:hover, &:active, &:focus {
+      color: $body-color !important;
+    }
+  }
+
+  @include media-breakpoint-down(xs) {
+    height: calc(100vh - 86px);
+
+    .card {
+      .card-img {
+        height: 100%;
+        max-width: none;
+        width: auto;
+        position: absolute;
+
+        &.left {
+          right: auto;
+          left: -10px;
+        }
+
+        &.right {
+          left: auto;
+          right: -10rem;
+        }
+
+        &.center {
+          left: auto;
+          right: -60vw;
+        }
+      }
+    }
+
+    .latest-title {
+      background-color: $body-bg;
+      width: 100%;
+    }
+  }
+
+  .header {
+    margin-bottom: 3rem;
+    color: $body-bg;
+
+    .banner {
+      position: relative;
+      margin-top: 4rem;
+
+      @include media-breakpoint-up(xs) {
+        width: 60vw;
+      }
+
+      @include media-breakpoint-up(sm) {
+        width: 50vw;
+      }
+
+
+      @include media-breakpoint-up(md) {
+        margin-top: 2rem;
+        width: 30vw;
+      }
+
+      @include media-breakpoint-up(lg) {
+        width: 26vw;
+      }
+
+      @include media-breakpoint-up(xl) {
+        width: 22vw;
+      }
+    }
+  }
+}

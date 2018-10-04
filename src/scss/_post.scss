@@ -1,0 +1,97 @@
+.img-cover, .content-portrait {
+  display: none;
+}
+
+@media screen and (orientation:portrait) and (min-width:768px) {
+  .img-cover, .content-portrait {
+    display: block;
+  }
+
+  .img-profile, .content-landscape {
+    display: none;
+  }
+}
+
+.post-header {
+  margin-top: 9rem;
+}
+
+.profile-img-sm {
+  position: relative;
+  margin: 10vw auto;
+  height: 80vw;
+  width: 80vw;
+  overflow: hidden;
+}
+
+.post {
+  blockquote {
+    font-size: 1.6rem;
+    line-height: 2rem;
+    margin: 2rem 0;
+
+    p {
+      font-family: $font-family-sans-serif;
+      font-weight: 300;
+
+      &:first-of-type::first-letter {
+        font-family: $font-family-serif;
+        float: left;
+        font-size: 4.5rem;
+        line-height: 3rem;
+        padding-right: 0.5rem;
+        padding-top: 0.75rem;
+      }
+    }
+  }
+
+  & > div > p {
+    font-size: 1.1rem;
+    line-height: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    @include media-breakpoint-up(md) {
+      padding-left: 5rem;
+      padding-right: 5rem;
+    }
+
+    strong {
+      display: block;
+      margin-top: 4rem;
+      letter-spacing: 0.05rem;
+      font-size: 1.4rem;
+      line-height: 2rem;
+      font-family: $font-family-sans-serif;
+    }
+  }
+}
+
+fb-sidebar {
+  transition: all 300ms;
+  -webkit-transition: all 300ms;
+  -moz-transition: all 300ms;
+  -o-transition: all 300ms;
+  position: fixed !important;
+  top: 86px;
+  left: -1rem;
+
+  .profile-img {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+      height: 100vh;
+      width: auto;
+
+      &.right-align {
+        position: absolute;
+        right: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+---
+layout: default
+title: Home
+body_class: index
+---
+
+{% include navbar.html %}
+{% include index-cover.html %}
+{% include post-grid.html limit='4' offset='0' %}
+
+<div class="pb-5 pt-3 text-center">
+  <a href="profiles" class="btn btn-secondary btn-lg">
+    View all
+  </a>
+</div>
+
+<div class="bg-faded py-5">
+  <div class="container">
+    {% include section-about.html %}
+  </div>
+</div>
+
+<div class="container py-5">
+  {% include section-partners.html %}
+</div>

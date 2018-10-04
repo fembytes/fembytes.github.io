@@ -1,0 +1,27 @@
+{% for post in site.tags.featured limit:1 %}
+  <div class="index-cover pb-2">
+    <div class="card card-inverse m-0">
+      <a href="{{ post.url }}">
+        <img class="card-img img-fluid {{ post.cover_align }}" src="{{ site.github.url }}/assets/{{ post.asset_id }}/cover.jpg">
+        <div class="card-img-overlay">
+          <div class="header">
+            <a href="{{ site.github.url }}/">
+              <img class="banner" src="{{ site.github.url }}/dist/img/banner-sm.png">
+            </a>
+            <h2>
+              Conversations with women in technology
+            </h2>
+            <a href="{{ post.url }}" class="btn btn-lg btn-primary text-white mt-4">
+              Read the Latest
+            </a>
+          </div>
+        </div>
+      </a>
+    </div>
+    <a class="latest-title" href="{{ post.url }}">
+      <div class="p-3 text-right">
+        <small><strong>{{ post.first_name }} {{ post.last_name }}</strong> | <i class="mdi mdi-{{ post.icon }}"></i> {{ post.tagline }}</small>
+      </div>
+    </a>
+  </div>
+{% endfor %}

@@ -1,0 +1,71 @@
+.cover {
+  color: $body-bg;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.4);
+  height: 30rem;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: -2rem;
+  text-align: center;
+
+  @include media-breakpoint-up(md) {
+    height: 38rem;
+  }
+
+  &-right {
+    @media (max-width: 2048px) {
+      & > img {
+        right: 0;
+      }
+    }
+
+    .slice {
+      transform: rotate(6deg);
+    }
+  }
+
+  &-left {
+    @media (max-width: 2048px) {
+      & > img {
+        left: 0;
+      }
+
+      .slice {
+        transform: rotate(-6deg);
+      }
+    }
+  }
+
+  .slice {
+    background-color: $white;
+    display: block;
+    height: 200px;
+    width: 150%;
+    position: absolute;
+    bottom: -100px;
+    left: -25%;
+
+    & + h3 {
+      position: relative;
+      margin-top: 25rem;
+      text-align: left;
+      text-shadow: none;
+
+      @include media-breakpoint-up(md) {
+        margin-top: 32rem;
+      }
+    }
+  }
+
+  & > img {
+    height: 100%;
+
+    @media (max-width: 2048px) {
+      position: absolute;
+    }
+
+    @include media-breakpoint-up(lg) {
+      height: auto;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<div class="post-index container-fluid pb-2 mt-3">
+  <div class="row">
+    {% for post in site.tags.profile limit:include.limit }} offset:include.offset %}
+      <div class="col-lg-3 col-sm-6 col-12 mb-4">
+        <div class="card card-inverse" id="{{ post.asset_id }}">
+          <a href="{{ post.url }}">
+            <img class="card-img img-fluid" src="{{ site.github.url }}/assets/{{ post.asset_id }}/cover.jpg">
+            <div class="p-3 text-right">
+              <small><strong>{{ post.first_name }}</strong> | <i class="mdi mdi-{{ post.icon }}"></i> {{ post.tagline }}</small>
+            </div>
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

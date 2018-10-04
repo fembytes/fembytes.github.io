@@ -1,0 +1,51 @@
+// colors
+$white: #fdfcfe;
+$gray: desaturate(darken($white, 70%), 90%);
+$purple: #ac91b7;
+$purple-dark: darken($purple, 10%);
+$brand-primary: $purple;
+$body-bg: $white;
+$body-color: $gray;
+
+// fonts
+$font-family-sans-serif: 'brandon-grotesque', 'Woodford Bourne', Helvetica, Arial, sans-serif;
+$font-family-serif: 'Spectral', serif;
+$font-family-monospace: 'Roboto Mono', 'Menlo', 'Monaco', monospace;
+$font-family-base: $font-family-serif;
+
+// sizing
+$grid-breakpoints: (
+  xs: 0,
+  sm: 568px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+);
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../node_modules/tether/src/css/tether.sass';
+@import '../../node_modules/mdi/scss/materialdesignicons.scss';
+@import '../../node_modules/animate.css/animate';
+@import url('https://fonts.googleapis.com/css?family=Spectral:300,300i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
+
+@import 'utils';
+@import 'type';
+@import 'headings';
+@import 'buttons';
+@import 'navbar';
+@import 'card';
+@import 'cover';
+@import 'post';
+@import 'index-cover';
+
+body {
+  padding-top: 86px;
+  font-weight: 300;
+}
+
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}

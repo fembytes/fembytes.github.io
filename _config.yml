@@ -1,0 +1,11 @@
+title: FemBytes
+baseurl: ""
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - src
+  - gulpfile.js
+  - package.json
+  - README.md
+  - node_modules
